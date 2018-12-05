@@ -61,6 +61,8 @@ Plug 'tmhedberg/SimpylFold'
 Plug 'vim-scripts/indentpython.vim'
 " Plug 'hdima/python-syntax'
 " Plug 'integralist/vim-mypy'
+Plug 'kana/vim-textobj-user'
+Plug 'kana/vim-textobj-indent'
 call plug#end()
 
 filetype plugin indent on
