@@ -8,7 +8,7 @@ set expandtab
 set fileencodings=utf-8
 set number
 set showmatch
-set mouse=a
+" set mouse=a
 set selection=exclusive
 set selectmode=mouse,key
 set hlsearch
