@@ -80,9 +80,10 @@ let g:NERDSpaceDelims = 1
 
 " ColorScheme
 colorscheme gruvbox
+" colorscheme NeoSolarized
 set background=dark
 set termguicolors
-highlight Normal ctermbg=none guibg=none
+" highlight Normal ctermbg=none guibg=none
 if has("gui_vimr")
     " colorscheme NeoSolarized
     colorscheme gruvbox
